@@ -66,7 +66,7 @@ You can choose to customize the template to create your own bookstore, modify it
 
 AWS Bookstore Demo App is built on-top of **[AWS Full-Stack Template](https://github.com/awslabs/aws-full-stack-template)**, which provides the foundational services, components, and plumbing needed to get a basic web application up and running. Users can build on top of AWS Full-Stack Template to create any application they envision, whether a travel booking tool, a blog, or another web app.  This AWS Bookstore Demo App is just one example of what you can create using AWS Full-Stack Template. 
 
-Watch the recorded talk and demo [here](https://youtu.be/-pb-DkD6cWg?t=1309). 
+
 &nbsp;
 
 ---
